@@ -1,0 +1,1 @@
+["^ ","~$last-four",["^ ","~:row",3,"~:col",1,"~:fixed-arities",["~#set",[1]],"~:name","^0","~:ns","~$app.test-and-debug","~:top-ns","^7","~:arities",["^ ","~i1",["^ ","~:ret","~:string","~:arglist-str","[serial-num]"]],"~:type","~:fn"],"~:filename","/Users/elias/lein-clojure-lib/src/app/test_and_debug.clj"]

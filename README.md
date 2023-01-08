@@ -46,10 +46,15 @@ Syntax!
   * Whatever value of the expressions selected is printed on the right window as well as the return value of the last expression (`println` is a side effect)
 * You can also use the VSCode terminal for one-off commands
 
+## [App](/doc/intro.md)
+
+* `cd ..`
+* `lein new app --to-dir lein-clojure-lib --force `
+
 
 ## License
 
-Copyright © 2023 FIXME
+Copyright © 2023 Joem Elias Sanez
 
 This program and the accompanying materials are made available under the
 terms of the Eclipse Public License 2.0 which is available at

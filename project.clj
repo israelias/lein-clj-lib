@@ -9,6 +9,6 @@
                  ]
   :main ^:skip-aot app.core
   :target-path "target/%s" 
-  :repl-options {:init-ns app.core}
+  :repl-options {:init-ns app.test-and-debug}
   :profiles {:uberjar {:aot :all
                        :jvm-opts ["-Dclojure.compiler.direct-linking=true"]}}) 

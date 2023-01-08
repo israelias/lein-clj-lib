@@ -1,1 +1,1 @@
-["^ ","~$hello-world",["^ ","~:row",3,"~:col",1,"~:fixed-arities",["~#set",[0]],"~:name","^0","~:ns","~$t","~:top-ns","~$t","~:type","~:fn"],"~:filename","/Users/elias/lein-clojure-lib/core.clj"]
+["^ ","~$division",["^ ","~:row",8,"~:col",1,"~:fixed-arities",["~#set",[0]],"~:name","^0","~:ns","~$t","~:top-ns","~$t"],"~$multiplication",["^ ","^1",12,"^2",1,"^3",["^4",[0]],"^5","^8","^6","~$t","^7","~$t"],"~$math-works",["^ ","^1",16,"^2",1,"^3",["^4",[0]],"^5","^9","^6","~$t","^7","~$t"],"~:filename","/Users/elias/lein-clojure-lib/lib/testing/unit-tests.clj"]
