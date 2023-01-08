@@ -14,6 +14,7 @@ Syntax!
 > Code is data
 
 ## Requirements
+
 * CLI/Terminal
   * Install [lein](https://leiningen.org/#install) as an executable from `$PATH`
   * Run `lein`
@@ -45,3 +46,18 @@ Syntax!
   * Whatever value of the expressions selected is printed on the right window as well as the return value of the last expression (`println` is a side effect)
 * You can also use the VSCode terminal for one-off commands
 
+
+## License
+
+Copyright © 2023 FIXME
+
+This program and the accompanying materials are made available under the
+terms of the Eclipse Public License 2.0 which is available at
+http://www.eclipse.org/legal/epl-2.0.
+
+This Source Code may also be made available under the following Secondary
+Licenses when the conditions for such availability set forth in the Eclipse
+Public License, v. 2.0 are satisfied: GNU General Public License as published by
+the Free Software Foundation, either version 2 of the License, or (at your
+option) any later version, with the GNU Classpath Exception which is available
+at https://www.gnu.org/software/classpath/license.html.

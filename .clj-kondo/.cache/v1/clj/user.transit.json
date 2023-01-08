@@ -1,1 +1,1 @@
-["^ ","~$hello-world",["^ ","~:row",1,"~:col",1,"~:fixed-arities",["~#set",[0]],"~:name","^0","~:ns","~$user","~:top-ns",null,"~:type","~:fn"],"~:filename","/Users/elias/lein-clojure-lib/core.clj"]
+["^ ","~$make-name",["^ ","~:row",3,"~:col",1,"~:fixed-arities",["~#set",[1]],"~:name","^0","~:ns","~$user","~:top-ns",null,"~:arities",["^ ","~i1",["^ ","~:ret","~:string","~:arglist-str","[first-name]"]],"~:type","~:fn"],"~$my-number",["^ ","^1",10,"^2",1,"^5","^?","^6","^7","^8",null,"^=","~:pos-int"],"~:filename","/Users/elias/lein-clojure-lib/basic-syntax.clj"]
